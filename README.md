@@ -1,54 +1,24 @@
-# Hi, I'm Chams-Eddine 👋
+# Chams-Eddine Mokdad
 
-**Senior Data Scientist · ML, Analytics & Data/AI Delivery**
+**Senior Data Scientist | Applied statistics, machine learning and analytics**
 
-I have **10+ years of experience** working with data across banking, retail and automotive environments. I enjoy turning ambiguous business problems into measurable, usable data products — from framing and analysis to machine learning, evaluation and delivery.
+I’m a statistical engineer based in the Paris region. What I enjoy most is building a model and then sitting down with the people who will use its output. In customer segmentation, that has meant both delivering a five-cluster model and choosing a simpler set of rules when a marketing team could use them more effectively.
 
-## What I work on
+## Selected work
 
-- **Machine Learning & Data Science** — classification, clustering, survival analysis, model evaluation and interpretability
-- **Analytics & Data Products** — KPI design, business analysis, data quality and decision-support solutions
-- **Data & AI Delivery** — bridging business, product and technical teams to move from problem definition to production-ready solutions
+- **Customer analytics at Cyllene.** I built a customer segmentation from e-commerce transactions for Arkopharma and used survival analysis in Python to estimate subscriber cancellation risk for Lagardère.
+- **Fleet analytics at Renault, via Expleo.** Since September 2026, I have been working on the transition from Spotfire to Streamlit for fleet incident analysis. I compared SQL alert rules with their YAML definitions, investigated the risk of duplicate alerts in BigQuery and added event-level selection to a weather demo. I am also taking over service delivery responsibilities, including steering committee preparation.
+- **AI Factory at Alstom, via Expleo (April–September 2026).** I framed eight AI use cases, designed an evaluation framework and built a Streamlit interface on an existing backend so engineers could review discrepancies in technical documents.
 
-## Core stack
+## Projects you can explore
 
-**Python · SQL · BigQuery · scikit-learn · Pandas · Looker · SAS · Git**
+- [Cancer Survival Predictor](https://github.com/mokdata/cancer-survival-predictor) — An educational comparison of classification and time-to-event methods on **synthetic** breast cancer data inspired by published distributions. The repository includes a Cox model, Kaplan–Meier analysis and a Streamlit interface.
+- [Virtual Profiler](https://github.com/mokdata/virtual-profiler) — Early-stage exploration of FBI open data. The README lists the planned analyses and dashboard features.
 
-Currently strengthening my production ML stack with **FastAPI, pytest, Docker, Cloud Run and GitHub Actions**, while expanding into **LLM application engineering and evaluation**.
+## What I’m learning
 
-## Featured project
+In my personal MLOps sprint I served a scikit-learn model locally with FastAPI, validated inputs with Pydantic and ran the service in Docker. My next steps are automated tests, a Cloud Run deployment and CI/CD. I also study evaluation methods for LLM applications.
 
-### 🎗️ [Cancer Survival Predictor](https://github.com/mokdata/cancer-survival-predictor)
+**Tools I use** · Python, pandas, scikit-learn, SQL, BigQuery, SAS, Looker and Streamlit.
 
-Survival analysis and machine learning applied to **synthetic breast-cancer clinical data inspired by TCGA-BRCA distributions**.
-
-`Python` · `scikit-learn` · `Lifelines` · `Kaplan-Meier` · `Cox PH` · `Streamlit`
-
-## Currently building
-
-### 🚀 MLOps Foundation Sprint
-
-A production-oriented ML project designed to cover the full delivery path:
-
-`scikit-learn pipeline → local inference → FastAPI → tests → Docker → Cloud Run → CI/CD`
-
-Also working on:
-
-- production-oriented ML practices on GCP
-- LLM evaluation and AI application patterns
-- Google Cloud Professional Machine Learning Engineer learning path
-
-## Background
-
-My experience spans **consulting and enterprise environments**, with projects involving customer analytics, segmentation, predictive modeling, connected-services analytics, data quality and functional delivery.
-
-I am especially interested in roles where **data science, business impact and delivery meet**.
-
-## Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/chams-mokdad/)
-- 🌐 [Portfolio](https://chams-mokdad.carrd.co)
-
----
-
-*Building a portfolio around practical Data Science, MLOps and applied AI.*
+[Portfolio](https://mokdata.fr) · [LinkedIn](https://www.linkedin.com/in/chams-mokdad/)
