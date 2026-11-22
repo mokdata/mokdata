@@ -2,7 +2,7 @@
 
 **Senior Data Scientist · Data Team Lead · Paris region**
 
-I’m a statistical engineer with 11 years of experience. At Cyllene I built customer models and later led the data science team. I hired two apprentices who went on to join full-time, reviewed code and signed off client presentations. At Expleo I support career development for 14 consultants alongside my client work.
+I’m a statistical engineer with 11 years of experience. At Cyllene I built customer models and later led the data science team. I hired two apprentices who went on to join full-time, reviewed code and signed off client presentations. Earlier at Datametrix, I led eight statisticians and analysts working on clinical trials and wrote SAS programs for study outputs. At Expleo I support career development for 14 consultants alongside my client work.
 
 ## A project you can inspect
 
